@@ -1,0 +1,23 @@
+
+Função Sintaxe Observação	
+Listar pastas/arquivos do diretorio atual	dir	
+Listar pastas/arquivos ocultos do diretorio atual	ls / ls -a (arquivos ocultos)	
+Trocar diretorio (cd - change directory)		sobe para a base do  servidor
+		sobe um nivel
+		muda para a pasta especificada
+Autocomplete	tab	completa o nome da pasta a partir da 1a letra
+Limpar tela do prompt (clear screen)	clear / ctr+L	
+Criar diretorio (make directory)		
+Printar texto no terminal		
+Mover arquivos 	mv nomearquivo.extensaoarquivo./nome pasta/	
+Redireciona texto para criar nome de um arquivo		
+Deletar arquivos de um repositorio (delete)	rm name	
+Deletar pastas de um repositorio (remove directory)		
+Iniciar o monitoramento do git para a pasta atual	git init	
+Adicionar arquivos ao stage do Git	git add *	* move tudo que é novo ou alterado para o stage
+Comita o repositorio	git commit -m	git commit -m "commit inicial"
+Vê status de cada arquivo e/ou sub-pasta	git status	
+Exibir caminho dos repositorios do git	git remote -v	
+Cria um clone do repositorio Github na sua maquina	git clone	
+
+Usando Git Bash: terminal extendido para otimizar o uso do Git.
